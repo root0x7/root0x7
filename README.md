@@ -8,6 +8,8 @@ As a SOC Analyst, I specialize in incident response, threat hunting, memory and 
 
 With a dual background in software engineering and security operations, I bring a holistic approach to protecting systems — from writing secure code to defending against advanced cyber threats.
 
+Security Tester xinux.uz
+
 #  🛡️ Security Skills
 
 🔹 Application Security Engineer
